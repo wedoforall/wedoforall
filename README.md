@@ -5,7 +5,11 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=wedoforall&bg_color=0d1117&color=f9826c&line=f9d423&point=fc5185&area=true&hide_border=true" width="100%" />
 </p>
 
+<p align="centre">
+  
 ![snake gif](https://github.com/wedoforall/wedoforall/blob/output/github-contribution-grid-snake-dark.svg)
+</p>
+
 
 ### 💻 Technologies I’m Testing
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)
