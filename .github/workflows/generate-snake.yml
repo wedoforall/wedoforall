@@ -2,11 +2,11 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 */12 * * *"
+    - cron: "0 */12 * * *"  # Runs every 12 hours
   workflow_dispatch:
   push:
     branches:
-      - main
+      - main  # Use 'master' if your default branch is master
 
 jobs:
   generate:
@@ -17,12 +17,12 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v3
 
-      - name: Generate Dark Snake SVG with Vibrant Colors
+      - name: Generate Snake SVG with Unique Colors
         uses: Platane/snk@v3
         with:
           github_user_name: wedoforall
           outputs: |
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#ff6ec7,#00fff7,#ff9f1c,#9d4edd,#00ff87&color_dots=#ffe227,#ff3cac,#32ff7e,#0f0f0f,#5f0f40
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#00FFF7,#FF6EC7,#FFD300,#00FF87,#FF9F1C&color_dots=#FF3CAC,#32FF7E,#FFE227,#9D4EDD,#0F0F0F
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v4
