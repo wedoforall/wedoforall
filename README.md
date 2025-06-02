@@ -57,5 +57,4 @@
 ---
 
 ### 🐍 Contribution Snake Animation
-```md
 ![snake gif](https://github.com/wedoforall/wedoforall/blob/output/github-contribution-grid-snake.svg)
