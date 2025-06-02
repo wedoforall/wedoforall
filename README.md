@@ -7,37 +7,22 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&center=true&width=435&lines=This+profile+is+for+fun+%F0%9F%98%8E;Testing+widgets+on+GitHub+ReadMe;Exploring+dynamic+features" alt="Typing SVG" />
 </p>
 
----
-
-### 📊 Contribution Graph
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=wedoforall&bg_color=0d1117&color=f9826c&line=f9d423&point=fc5185&area=true&hide_border=true" width="100%" />
 </p>
 
----
-
-### 🐍 Contribution Snake
 <p align="center">
   <img src="https://github.com/wedoforall/wedoforall/blob/output/github-contribution-grid-snake-dark.svg" />
 </p>
-
----
-
-### 📈 GitHub Stats & Streaks
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=wedoforall&show_icons=true&theme=radical&hide_border=true" width="48%" />
   <img src="https://streak-stats.demolab.com?user=wedoforall&theme=radical&hide_border=true" width="48%" />
 </p>
 
----
-
-### 🧠 Top Languages
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wedoforall&layout=compact&theme=radical&hide_border=true" width="48%" />
 </p>
-
----
 
 ### 🔧 Technologies I’m Testing
 
@@ -49,39 +34,29 @@
 ![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code)
 ![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat&logo=markdown)
 
----
 
-### ✨ GitHub Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=wedoforall&theme=dracula&no-frame=true&row=1&column=6" />
 </p>
 
----
-
-### 🧮 GitHub Metrics
 
 <p align="center">
   <img src="https://github.com/wedoforall/wedoforall/blob/main/github-metrics.svg" width="100%">
 </p>
 
----
 
-### 💬 Random Dev Quote
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </p>
 
----
 
-### 📍 Visitor Counter
 
 <p align="center">
   <img src="https://profile-counter.glitch.me/wedoforall/count.svg" />
 </p>
 
----
 
 > ⚠️ This is a test profile. Feel free to fork and break things!
 
