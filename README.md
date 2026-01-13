@@ -34,19 +34,6 @@
 ![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code)
 ![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat&logo=markdown)
 
-
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=wedoforall&theme=dracula&no-frame=true&row=1&column=6" />
-</p>
-
-
-<p align="center">
-  <img src="https://github.com/wedoforall/wedoforall/blob/main/github-metrics.svg" width="100%">
-</p>
-
-
-
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </p>
